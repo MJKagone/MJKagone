@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🌍
+# 🤖 .Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴.  🌍
 
 [![Languages](https://skillicons.dev/icons?i=py,cpp,java,r,matlab,bash)](https://skillicons.dev)
 
