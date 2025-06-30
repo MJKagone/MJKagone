@@ -1,4 +1,4 @@
-## H̷͘e͏͡l̴̡l̶͢o̸̸ ͠W͟o͜r͡l͠d̢ 🤖 🌍
+## Ⱨ̸͉̀Ɇ̵̤͆Ⱡ̴̹̈́Ⱡ̷͎̈́Ø̸̿͜ ̸͓͂₩̴̡̔Ø̵̯̚Ɽ̸͙̑Ⱡ̶̫̾Đ̵̩͗ 🤖 🌍
 
 Computer Science & Engineering student with interests in AI, computer vision and virtual environments.
 
