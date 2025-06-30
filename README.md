@@ -1,4 +1,4 @@
-## Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴ 🤖 🌍
+## Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🤖 🌍
 
 Computer Science & Engineering student with interests in AI, computer vision and virtual environments.
 
