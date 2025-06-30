@@ -1,6 +1,6 @@
 ## Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🤖 🌍
 
-Computer Science & Engineering student with interests in AI, computer vision and virtual environments.
+Computer Science & Engineering student with interests in AI, vision and virtual environments.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
