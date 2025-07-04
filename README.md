@@ -1,13 +1,13 @@
-<div align="center">
+# 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴ 🌍
 
-# 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🌍
+### 🛠️ Languages & Tools
 
-[![Languages](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=py)
+![Languages](https://skillicons.dev/icons?i=cpp)
+![Languages](https://skillicons.dev/icons?i=java&theme=light)
+![Languages](https://skillicons.dev/icons?i=r)
+![Languages](https://skillicons.dev/icons?i=matlab)
+![Languages](https://skillicons.dev/icons?i=bash)
 
 ![Scikit-learn](https://img.shields.io/badge/-sklearn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
@@ -15,4 +15,14 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS_Code-%23313131.svg?logo=vscode&logoColor=white)
 
-</div>
+### 🎯 Learning Goals
+- Short-term: **PyTorch & audio processing**
+- Medium-term: **JS & WebGL**
+- Long-term: **Advanced vision, graphics & game development**
+
+### 🎮 Gaming
+Here's a list of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miro-kakkonen-416b53196/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/XxXfjxVs)
