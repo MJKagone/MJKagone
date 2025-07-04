@@ -2,12 +2,13 @@
 
 ### 🛠️ Languages & Tools
 
-![Languages](https://skillicons.dev/icons?i=py)
-![Languages](https://skillicons.dev/icons?i=cpp)
-![Languages](https://skillicons.dev/icons?i=java&theme=light)
-![Languages](https://skillicons.dev/icons?i=r)
-![Languages](https://skillicons.dev/icons?i=matlab)
-![Languages](https://skillicons.dev/icons?i=bash)
+![Python](https://skillicons.dev/icons?i=py)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java&theme=light)
+![R](https://skillicons.dev/icons?i=r)
+![Matlab](https://skillicons.dev/icons?i=matlab)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Git](https://skillicons.dev/icons?i=git)
 
 ![Scikit-learn](https://img.shields.io/badge/-sklearn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
