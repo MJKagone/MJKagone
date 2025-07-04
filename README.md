@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🌍
+## 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴  🌍
 
-[![Languages](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &nbsp;
-[![Languages](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) &nbsp;
-[![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) &nbsp;
-[![Languages](https://skillicons.dev/icons?i=r)](https://skillicons.dev) &nbsp;
-[![Languages](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) &nbsp;
-[![Languages](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) &nbsp;
+[![Languages](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
