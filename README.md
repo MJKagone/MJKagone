@@ -19,7 +19,7 @@
 ### 🎯 Learning Goals
 - Short-term: **PyTorch** & **audio processing**
 - Medium-term: **JS** & **WebGL**
-- Long-term: **Advanced vision**, **graphics** & **game development**
+- Long-term: **Advanced computer vision**, **graphics** & **game development**
 
 ### 🎮 Gaming
 List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
