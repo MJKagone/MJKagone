@@ -17,13 +17,13 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS_Code-%23313131.svg?logo=vscode&logoColor=white)
 
 ### 🎯 Learning Goals
-- Short-term: **PyTorch & audio processing**
-- Medium-term: **JS & WebGL**
-- Long-term: **Advanced vision, graphics & game development**
+- Short-term: **PyTorch** & **audio processing**
+- Medium-term: **JS** & **WebGL**
+- Long-term: **Advanced vision**, **graphics** & **game development**
 
 ### 🎮 Gaming
-Here's a list of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
+List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miro-kakkonen-416b53196/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/XxXfjxVs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/miro-kakkonen-416b53196/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge)](https://discord.gg/XxXfjxVs)
