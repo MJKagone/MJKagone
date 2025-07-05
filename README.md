@@ -1,5 +1,9 @@
 # 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴ 🌍
 
+### 🔍Interests
+
+Machine learning | Computer vision | 3D graphics | Game development | Data analysis | Natural language processing
+
 ### 🛠️ Languages & Tools
 
 ![Python](https://skillicons.dev/icons?i=py)
