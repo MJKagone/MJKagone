@@ -14,16 +14,16 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Git](https://skillicons.dev/icons?i=git)
 
-![Scikit-learn](https://img.shields.io/badge/-sklearn-%23F7931E?logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=OpenGL&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS_Code-%23313131.svg?logo=vscode&logoColor=white)
 
 ### 🎯 Learning Goals
-- Short-term: **PyTorch** & **audio processing**
-- Medium-term: **JS** & **WebGL**
-- Long-term: **Advanced computer vision**, **graphics** & **game development**
+- Short-term: PyTorch & audio processing
+- Medium-term: JS & WebGL
+- Long-term: Advanced computer vision, graphics & game development
 
 ### 🎮 Gaming
 List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
