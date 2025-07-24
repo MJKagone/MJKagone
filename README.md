@@ -12,7 +12,6 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![R](https://skillicons.dev/icons?i=r)
 ![Matlab](https://skillicons.dev/icons?i=matlab)
 ![Bash](https://skillicons.dev/icons?i=bash)
-![Git](https://skillicons.dev/icons?i=git)
 
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
