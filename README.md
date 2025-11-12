@@ -20,8 +20,8 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS_Code-%23313131.svg?logo=vscode&logoColor=white)
 
 ### 🎯 Learning Goals
-- Short-term: PyTorch & audio processing
-- Medium-term: JS & WebGL
+- Short-term: PyTorch, audio processing
+- Medium-term: JS, WebGL
 - Long-term: Advanced computer vision, graphics & game development
 
 ### 🎮 Gaming
