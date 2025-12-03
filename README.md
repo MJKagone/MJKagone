@@ -25,7 +25,7 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ### 🎮 Gaming
 List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
 
-A demo I made for learning Unreal Engine: [YouTube](https://www.youtube.com/watch?v=SzKXx6O1YzU)
+A demo I made to learn Unreal Engine: [YouTube](https://www.youtube.com/watch?v=SzKXx6O1YzU)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/miro-kakkonen-416b53196/)
