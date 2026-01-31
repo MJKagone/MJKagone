@@ -19,7 +19,7 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=OpenGL&logoColor=FFFFFF)
 
 ### 🎯 Learning Goals
-- Short-term: JS & WebGL
+- Short-term: Web APIs & LLM interfacing
 - Long-term: Advanced computer vision, graphics & game development
 
 ### 🎮 Gaming
