@@ -20,7 +20,7 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 
 ### 🎯 Learning Goals
 - Short-term: REST APIs & LLM interfacing
-- Medium-term: 3D computer vision / Gaussian splatting
+- Medium-term: 3DCV / Gaussian splatting
 - Long-term: Advanced computer vision, graphics & game development
 
 ### 🎮 Gaming
