@@ -19,8 +19,8 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=OpenGL&logoColor=FFFFFF)
 
 ### 🎯 Learning Goals
-- Short-term: REST APIs & LLM interfacing
-- Medium-term: 3DCV / Gaussian splatting
+- Short-term: REST APIs, LLM interfacing & Cybersecurity 101
+- Medium-term: 3D vision / Gaussian splatting
 - Long-term: Advanced computer vision, graphics & game development
 
 ### 🎮 Gaming
