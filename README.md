@@ -21,7 +21,7 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ### 🎯 Learning Goals
 - Short-term: REST APIs, LLM interfacing & Cybersecurity 101
 - Medium-term: 3D vision / Gaussian splatting
-- Long-term: Advanced computer vision, graphics & game development
+- Long-term: Advanced computer vision, graphics, world models & game development
 
 ### 🎮 Gaming
 List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
