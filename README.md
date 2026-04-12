@@ -2,7 +2,7 @@
 
 ### 🔍Interests
 
-Machine learning | Computer vision | 3D graphics | Game development | Data analysis | NLP
+Machine learning | Computer vision | 3D graphics | Game development | Data analysis
 
 ### 🛠️ Languages & Tools
 
