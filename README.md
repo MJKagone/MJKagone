@@ -2,17 +2,17 @@
 
 ### 🔍Interests
 
-Machine learning | Computer vision | 3D graphics
+Machine learning • Computer vision • 3D graphics
 
-Game development | Data analysis | Sensor fusion
+Game development • Data analysis • Sensor fusion
 
 ### 🛠️ Languages & Tools
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
-![R](https://skillicons.dev/icons?i=r)
 ![Matlab](https://skillicons.dev/icons?i=matlab)
+![R](https://skillicons.dev/icons?i=r)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
