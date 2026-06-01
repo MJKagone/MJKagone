@@ -3,6 +3,7 @@
 ### 🔍Interests
 
 Machine learning | Computer vision | 3D graphics
+
 Game development | Data analysis | Sensor fusion
 
 ### 🛠️ Languages & Tools
