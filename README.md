@@ -2,7 +2,8 @@
 
 ### 🔍Interests
 
-Machine learning | Computer vision | 3D graphics | Game development | Data analysis
+Machine learning | Computer vision | 3D graphics
+Game development | Data analysis | Sensor fusion
 
 ### 🛠️ Languages & Tools
 
@@ -17,17 +18,3 @@ Machine learning | Computer vision | 3D graphics | Game development | Data analy
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=OpenGL&logoColor=FFFFFF)
-
-### 🎯 Learning Goals
-- Short-term: REST APIs, LLM interfacing & Cybersecurity 101
-- Medium-term: 3D vision / Gaussian splatting
-- Long-term: Advanced computer vision, graphics, world models & game development
-
-### 🎮 Gaming
-List of all the video games I've played: [games.csv](https://github.com/MJKagone/Video-game-database-manager/blob/master/games.csv)
-
-A demo I made to learn Unreal Engine: [YouTube](https://www.youtube.com/watch?v=SzKXx6O1YzU)
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/miro-kakkonen-416b53196/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge)](https://discord.gg/XxXfjxVs)
