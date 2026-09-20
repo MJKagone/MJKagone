@@ -1,6 +1,6 @@
 # 🤖 Ⱨ̷Ɇ̴Ⱡ̶Ⱡ̵Ø̷_ ̶₩̶Ø̴Ɽ̶Ⱡ̶Đ̴ 🌍
 
-Machine learning • Computer vision • 3D graphics • Game development • Data analysis • Sensor fusion
+Machine learning • Computer vision • 3D graphics • Game development
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -14,4 +14,4 @@ Machine learning • Computer vision • 3D graphics • Game development • Da
 ![OpenCV](https://img.shields.io/badge/OpenCV-199900?logo=OpenCV&logoColor=FFFFFF)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=OpenGL&logoColor=FFFFFF)
 
-Currently working on relightable 3D Gaussian splatting.
+Currently working on relightable 3D Gaussian splatting and open-vocabulary object detection.
